@@ -1,3 +1,5 @@
+#course utilized streamlit, plotly, pandas
+#course utilized atom and rhyme
 import streamlit as st
 import pandas as pd
 import numpy as np
