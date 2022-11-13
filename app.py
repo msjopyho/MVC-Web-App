@@ -8,7 +8,7 @@ import plotly.express as px
 
 #specify Data URL
 DATA_URL = (
-"/home/rhyme/Desktop/Project/Motor_Vehicle_Collisions_-_Crashes.csv"
+"/home/rhyme/Desktop/Project_MVC/Motor_Vehicle_Collisions_-_Crashes.csv"
 )
 
 st.title("Motor Vehicle Collisions in New York City")
